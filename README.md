@@ -42,6 +42,7 @@
 - 在区块链浏览器上使用隐藏函数进行合约验证
 - 蜜罐检查器原理，以及绕过蜜罐检测器的5种实现方法
 
+<img src="https://www.honeypot.boo/2023-08-02%2000.26.20.jpg">
 
 ## 价格
 
@@ -51,13 +52,15 @@
 | 【蜜罐合约教学与案例】+【蜜罐合约初+中级版本实现与讲解】    | 0.3 eth |
 | 【蜜罐合约教学与案例】+【蜜罐合约初+中+高级版本实现与讲解】 | 0.5 eth |
 
-## ERC20代码示例
+## 案例
+
+### ERC20
 
 [案例 1](https://dexscreener.com/base/0xed3d2e85aac07503933a1f813a27fdd0384c9984) | 
 [案例 2](https://www.dextools.io/app/cn/base/pair-explorer/0x12279c46ecce850443ca875948459c231e25b6af) | 
 [案例 3](https://www.dextools.io/app/cn/base/pair-explorer/0xed3d2e85aac07503933a1f813a27fdd0384c9984)
 
-## BEP20代码示例
+### BEP20
 
 [案例 1](https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa) | 
 [案例 2](https://www.coinsniper.net/coin/16153) | 
