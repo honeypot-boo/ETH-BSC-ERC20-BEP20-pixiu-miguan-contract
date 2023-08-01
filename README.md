@@ -53,14 +53,14 @@
 
 ## ERC20代码示例
 
-[案例 1](https://dexscreener.com/base/0xed3d2e85aac07503933a1f813a27fdd0384c9984)|
-[案例 2](https://www.dextools.io/app/cn/base/pair-explorer/0x12279c46ecce850443ca875948459c231e25b6af)|
+[案例 1](https://dexscreener.com/base/0xed3d2e85aac07503933a1f813a27fdd0384c9984) | 
+[案例 2](https://www.dextools.io/app/cn/base/pair-explorer/0x12279c46ecce850443ca875948459c231e25b6af) | 
 [案例 3](https://www.dextools.io/app/cn/base/pair-explorer/0xed3d2e85aac07503933a1f813a27fdd0384c9984)
 
 ## BEP20代码示例
 
-[案例 1](https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa)|
-[案例 2](https://www.coinsniper.net/coin/16153)|
+[案例 1](https://poocoin.app/tokens/0x7a2261022487c1aed6f53571494c46a1b4a213fa) | 
+[案例 2](https://www.coinsniper.net/coin/16153) | 
 [案例 3](https://bscscan.com/address/0x7a2261022487C1AED6f53571494C46A1B4a213fA)
 
 ## 购买方式？
